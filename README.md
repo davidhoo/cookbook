@@ -7,6 +7,8 @@
 5. [蒜蓉蒸生蚝](suan-rong-zheng-sheng-hao.md)
 6. [牛肉炖土豆/萝卜](niu-rou-dun-tu-dou-luo-bu.md)
 7. [鱼香肉丝](yu-xiang-rou-si.md)
+8. [青椒炒肉](qing-jiao-chao-rou.md)
+9. [黑椒牛肉粒](hei-jiao-niu-rou-li.md)
 
 
 
