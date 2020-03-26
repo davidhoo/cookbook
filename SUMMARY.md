@@ -15,4 +15,5 @@
 * [凉拌豆腐丝](liang-ban-dou-fu-si.md)
 * [芹菜炒肉](qin-cai-chao-rou.md)
 * [葱香藕条](cong-xiang-ou-tiao.md)
+* [凉拌白菜心](liang-ban-bai-cai-xin.md)
 
