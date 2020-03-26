@@ -14,4 +14,5 @@
 * [蒜泥白肉](suan-ni-bai-rou.md)
 * [凉拌豆腐丝](liang-ban-dou-fu-si.md)
 * [芹菜炒肉](qin-cai-chao-rou.md)
+* [葱香藕条](cong-xiang-ou-tiao.md)
 
