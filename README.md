@@ -9,6 +9,12 @@
 7. [鱼香肉丝](yu-xiang-rou-si.md)
 8. [青椒炒肉](qing-jiao-chao-rou.md)
 9. [黑椒牛肉粒](hei-jiao-niu-rou-li.md)
+10. [鲜虾白菜](xian-ha-bai-cai.md)
+11.  [蒜泥白肉](suan-ni-bai-rou.md)
+12. [凉拌豆腐丝](liang-ban-dou-fu-si.md)
+13. [芹菜炒肉](qin-cai-chao-rou.md)
+14. [葱香藕条](cong-xiang-ou-tiao.md)
+15. [凉拌白菜心](liang-ban-bai-cai-xin.md)
 
 
 
