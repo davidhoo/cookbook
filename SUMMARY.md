@@ -12,4 +12,5 @@
 * [黑椒牛肉粒](hei-jiao-niu-rou-li.md)
 * [鲜虾白菜](xian-ha-bai-cai.md)
 * [蒜泥白肉](suan-ni-bai-rou.md)
+* [凉拌豆腐丝](liang-ban-dou-fu-si.md)
 
