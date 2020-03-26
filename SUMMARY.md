@@ -1,6 +1,6 @@
 # Table of contents
 
-* [烤法式小羊排](README.md)
+* [Menu](README.md)
 * [法式小羊排](fa-shi-xiao-yang-pai.md)
 * [酸辣白菜](suan-la-bai-cai.md)
 * [椒盐皮皮虾](jiao-yan-pi-pi-ha.md)
