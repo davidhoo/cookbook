@@ -1,6 +1,6 @@
 # 鲜虾白菜
 
-![](.gitbook/assets/effects-2.jpg)
+![&#x9C9C;&#x867E;&#x767D;&#x83DC;](.gitbook/assets/effects-2.jpg)
 
 ## 原料
 
