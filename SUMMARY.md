@@ -11,4 +11,5 @@
 * [青椒炒肉](qing-jiao-chao-rou.md)
 * [黑椒牛肉粒](hei-jiao-niu-rou-li.md)
 * [鲜虾白菜](xian-ha-bai-cai.md)
+* [蒜泥白肉](suan-ni-bai-rou.md)
 
