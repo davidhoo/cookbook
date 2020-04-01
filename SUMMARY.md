@@ -16,4 +16,5 @@
 * [芹菜炒肉](qin-cai-chao-rou.md)
 * [葱香藕条](cong-xiang-ou-tiao.md)
 * [凉拌白菜心](liang-ban-bai-cai-xin.md)
+* [蒜苔腊肉](suan-tai-la-rou.md)
 
