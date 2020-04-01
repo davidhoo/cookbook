@@ -46,4 +46,6 @@
 * [麻辣火锅鸡](ma-la-huo-guo-ji.md)
 * [冬瓜丸子汤](dong-gua-wan-zi-tang.md)
 * [豆角烧茄子](dou-jiao-shao-qie-zi.md)
+* [炖冬瓜](dun-dong-gua.md)
+* [烤鸡脆骨](kao-ji-cui-gu.md)
 
