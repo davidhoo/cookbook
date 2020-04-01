@@ -18,7 +18,6 @@
 * [凉拌白菜心](liang-ban-bai-cai-xin.md)
 * [蒜苔腊肉](suan-tai-la-rou.md)
 * [蒸蛋羹](zheng-dan-geng.md)
-* [鱼香肉丝](yu-xiang-rou-si-1.md)
 * [卤蛋红烧肉](lu-dan-hong-shao-rou.md)
 * [葱爆羊肉](cong-bao-yang-rou.md)
 * [木须肉](mu-xu-rou.md)
@@ -52,5 +51,4 @@
 * [香辣小河虾](xiang-la-xiao-he-ha.md)
 * [豆角炒肉](dou-jiao-chao-rou.md)
 * [莴苣炒肉](wo-ju-chao-rou.md)
-* [Untitled](untitled.md)
 
