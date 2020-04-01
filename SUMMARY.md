@@ -35,4 +35,5 @@
 * [蜜汁烤猪排](mi-zhi-kao-zhu-pai.md)
 * [烤鸡爪](kao-ji-zhua.md)
 * [煎五花肉](jian-wu-hua-rou.md)
+* [蒜香烤鸡翅](suan-xiang-kao-ji-chi.md)
 
