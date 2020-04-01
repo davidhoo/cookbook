@@ -36,4 +36,12 @@
 * [烤鸡爪](kao-ji-zhua.md)
 * [煎五花肉](jian-wu-hua-rou.md)
 * [蒜香烤鸡翅](suan-xiang-kao-ji-chi.md)
+* [西葫芦炒肉](xi-hu-lu-chao-rou.md)
+* [干炸小黄鱼](gan-zha-xiao-huang-yu.md)
+* [卤鸡翅根](lu-ji-chi-gen.md)
+* [香煎脆皮肠](xiang-jian-cui-pi-chang.md)
+* [香菇炒肉](xiang-gu-chao-rou.md)
+* [爆炒圆白菜](bao-chao-yuan-bai-cai.md)
+* [辣炒鸡胗](la-chao-ji-zhen.md)
+* [麻辣火锅鸡](ma-la-huo-guo-ji.md)
 
