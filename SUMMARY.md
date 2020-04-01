@@ -50,4 +50,8 @@
 * [烤鸡脆骨](kao-ji-cui-gu.md)
 * [鱼香茄子](yu-xiang-qie-zi.md)
 * [香芹炒肉](xiang-qin-chao-rou.md)
+* [香辣小河虾](xiang-la-xiao-he-ha.md)
+* [豆角炒肉](dou-jiao-chao-rou.md)
+* [莴苣炒肉](wo-ju-chao-rou.md)
+* [Untitled](untitled.md)
 

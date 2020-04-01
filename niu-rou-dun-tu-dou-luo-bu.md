@@ -1,5 +1,7 @@
 # 牛肉炖土豆/萝卜
 
+![](.gitbook/assets/e27b516f-ec34-4fad-b011-5b5b7efe10b0.jpg)
+
 ## 原料
 
 1. 牛腩
