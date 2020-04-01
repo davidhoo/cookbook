@@ -44,4 +44,6 @@
 * [爆炒圆白菜](bao-chao-yuan-bai-cai.md)
 * [辣炒鸡胗](la-chao-ji-zhen.md)
 * [麻辣火锅鸡](ma-la-huo-guo-ji.md)
+* [冬瓜丸子汤](dong-gua-wan-zi-tang.md)
+* [豆角烧茄子](dou-jiao-shao-qie-zi.md)
 
