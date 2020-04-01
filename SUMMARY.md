@@ -17,7 +17,6 @@
 * [葱香藕条](cong-xiang-ou-tiao.md)
 * [凉拌白菜心](liang-ban-bai-cai-xin.md)
 * [蒜苔腊肉](suan-tai-la-rou.md)
-* [胡萝卜炖牛腩](hu-luo-bu-dun-niu-nan.md)
 * [蒸蛋羹](zheng-dan-geng.md)
 * [鱼香肉丝](yu-xiang-rou-si-1.md)
 * [卤蛋红烧肉](lu-dan-hong-shao-rou.md)
