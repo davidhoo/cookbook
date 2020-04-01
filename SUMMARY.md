@@ -27,4 +27,12 @@
 * [蒜苗回锅肉](suan-miao-hui-guo-rou.md)
 * [菠菜炒鸡蛋](bo-cai-chao-ji-dan.md)
 * [五香花卷](wu-xiang-hua-juan.md)
+* [咖喱鸡肉饭](ga-li-ji-rou-fan.md)
+* [肉夹馍](rou-jia-mo.md)
+* [牛肉面](niu-rou-mian.md)
+* [腊肉炒儿菜](la-rou-chao-er-cai.md)
+* [酱牛肉](jiang-niu-rou.md)
+* [蜜汁烤猪排](mi-zhi-kao-zhu-pai.md)
+* [烤鸡爪](kao-ji-zhua.md)
+* [煎五花肉](jian-wu-hua-rou.md)
 
