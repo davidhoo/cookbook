@@ -48,4 +48,6 @@
 * [豆角烧茄子](dou-jiao-shao-qie-zi.md)
 * [炖冬瓜](dun-dong-gua.md)
 * [烤鸡脆骨](kao-ji-cui-gu.md)
+* [鱼香茄子](yu-xiang-qie-zi.md)
+* [香芹炒肉](xiang-qin-chao-rou.md)
 
